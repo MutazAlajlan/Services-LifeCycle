@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{1CE15F10-0717-4695-A344-E0D7206A672A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LifetimeServices/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="LifetimeServices/Startup.cs" Line="31" Column="36" />
+      <File FileName="LifetimeServices/Controllers/HomeController.cs" Line="18" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LifetimeServices" expanded="True">
+            <Node name="LifetimeServices" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Middleware" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LifetimeServices PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
